@@ -1,0 +1,1 @@
+{"installed": {"client_id": "", "auth_provider_x509_cert_url": "", "client_secret": "", "project_id": "", "redirect_uris": ["urn:ietf:wg:oauth:2.0:oob", "http://localhost"], "token_uri": "https://accounts.google.com/o/oauth2/token", "auth_uri": "https://accounts.google.com/o/oauth2/auth"}}
