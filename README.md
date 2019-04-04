@@ -1,0 +1,2 @@
+# Gmail_API_access_mailbox
+This is a small project I created using Flask, Python and MongoDB to demonstrate the use of GMAIL API provided in Google APIs Explorer that uses OAuth2 for authentication.  This project aims at accessing the user's gmail mailbox by creating access tokens to authenticate the user using OAuth2 library. As the user authenticates, he may access the mailbox to send,read,archive,delete emails from Inbox, Sent Box, etc. and also download the attachments.
